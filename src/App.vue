@@ -4,7 +4,6 @@
 <script>
 export default {
   beforeCreate() {
-    console.log('..........hello from vue3 beforeCreate');
   }
 }
 </script>
