@@ -1,0 +1,1 @@
+(self.webpackChunkvue3_remote=self.webpackChunkvue3_remote||[]).push([[551],{551:(e,t,n)=>{"use strict";n.r(t),n.d(t,{mount:()=>c});var u=n(963),r=n(252);const o={beforeCreate(){},render:function(e,t,n,u,o,c){return(0,r.wg)(),(0,r.j4)("h2",null,"Hello from vue3")}};function c(e){(0,u.ri)(o).mount(e)}const m=document.getElementById("_vue3_remote");m&&c(m)}}]);
