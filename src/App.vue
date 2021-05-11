@@ -1,5 +1,5 @@
 <template>
-  <h2>Hello from vue 2</h2>
+  <h2>Hello from vue 3</h2>
 <!--  <router :history="history">-->
 <!--    <h2>Hello from vue3</h2>-->
 <!--    <nav id="nav">-->
